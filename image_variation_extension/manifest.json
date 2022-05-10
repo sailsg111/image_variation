@@ -1,10 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "ImageReplacer",
+    "name": "ImageColorVariation",
     "version": "1",
-    "web_accessible_resources": [
-        "images/*.jpg"
-    ],
     "content_scripts": [
         {
             "matches": [
