@@ -16,6 +16,7 @@ function changeColorVariation() {
 
     }
 }
+setInterval(changeColorVariation, 500)
 setTimeout(changeColorVariation, 3000)
 // changeColorVariation()
 // for (img of imgs) {
